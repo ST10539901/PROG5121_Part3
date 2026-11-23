@@ -1,0 +1,34 @@
+[
+  {
+    "messageID": "0385316445",
+    "messageNumber": 1,
+    "recipient": "+27838884567",
+    "messageText": "Where are you? You are late! I have asked you to be on time",
+    "messageHash": "03:1:WHERETIME",
+    "status": "Stored"
+  },
+  {
+    "messageID": "8957640673",
+    "messageNumber": 4,
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you.",
+    "messageHash": "89:4:OKYOU",
+    "status": "Stored"
+  },
+  {
+    "messageID": "0772939880",
+    "messageNumber": 1,
+    "recipient": "+27838884567",
+    "messageText": "Where are you? You are late! I have asked you to be on time.",
+    "messageHash": "07:1:WHERETIME",
+    "status": "Stored"
+  },
+  {
+    "messageID": "5172678404",
+    "messageNumber": 4,
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you",
+    "messageHash": "51:4:OKYOU",
+    "status": "Stored"
+  }
+]
