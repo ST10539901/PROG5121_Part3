@@ -163,45 +163,7 @@ XX:N:FIRSTWORDLASTWORD
 ---
 
 ## Author
-Student — Programming 1A, PROG5121/p/w
+St10539901 — Programming 1A, PROG5121
 
-
-## YouTube
-
-https://youtu.be/72QVjEv5N2M?si=pYZ7RtN2pTqg7RUA
-
-
-
-## ScreenShots
-
-
-New Screenshot 
-
-<img width="1362" height="1017" alt="image" src="https://github.com/user-attachments/assets/de308ff9-be56-4e42-a561-b2c0b153e58c" />
-
-<img width="1036" height="797" alt="image" src="https://github.com/user-attachments/assets/00784569-4b5c-4896-b23e-bcb482717111" />
-
-
-<img width="1332" height="867" alt="image" src="https://github.com/user-attachments/assets/ebd69830-0ce8-4c76-b312-705894771637" />
-
-<img width="1337" height="900" alt="image" src="https://github.com/user-attachments/assets/5252f9e2-c67b-4c23-b90d-1b631f50f492" />
-<img width="1347" height="977" alt="image" src="https://github.com/user-attachments/assets/49404bfe-6105-4470-b49c-7781994ed616" />
-
-
---------
-
-Old Screenshot
-
-**These screenshot show that the previous part 1 and 2 still functions properly**
-
-<img width="811" height="900" alt="image" src="https://github.com/user-attachments/assets/9307f51d-dbc5-40d3-8e9a-ea6ef0c6dc82" />
-
-<img width="1004" height="931" alt="image" src="https://github.com/user-attachments/assets/e869998c-87cd-494e-b1ae-d2d038db2b56" />
-<img width="1432" height="1003" alt="image" src="https://github.com/user-attachments/assets/8e496e03-16c3-4402-9bfa-67c9725b4a0b" />
-<img width="960" height="966" alt="image" src="https://github.com/user-attachments/assets/1db3e06e-514f-478a-a1c4-d3022c8eb73c" />
-<img width="1148" height="938" alt="image" src="https://github.com/user-attachments/assets/3a69dc0f-7e50-4a07-b078-0af1b9999062" />
-<img width="1040" height="952" alt="image" src="https://github.com/user-attachments/assets/70b01a32-cc72-49af-bde0-a986061527b4" />
-<img width="1858" height="931" alt="image" src="https://github.com/user-attachments/assets/0e9f8ced-d21f-4f5f-a908-17e8a6f42598" />
-<img width="1861" height="937" alt="image" src="https://github.com/user-attachments/assets/6748d2d1-e416-4654-8d1a-61bb57d80e36" />
 
 
